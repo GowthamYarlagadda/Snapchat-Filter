@@ -1,6 +1,6 @@
 # Snapchat-Filter
 
-In this project, Using libraries numpy, cv2 and pre-trained haarcascade models for face and eye detection, Making of filter that places a transparent sun-glasses of size propotional to face in live video stream recorded through web-cam was accomplished.
+In this project, Using libraries numpy, cv2 and pre-trained haarcascade models for face and eye detection, Making of filter that places a transparent sun-glasses of size proportional to face in live video stream recorded through web-cam was accomplished.
 
 This project was learnt in Image-Processing SMP conducted by ISTE-NITK chapter.
 
